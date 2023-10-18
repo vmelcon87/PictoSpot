@@ -4,7 +4,7 @@ This Privacy Policy describes how we collect and use the information you provide
 
 ### Data Collection
 
-We do not collect or store any personal data or user identification information through this application. This includes, but is not limited to, names, email addresses, phone numbers, locations, photos, or other personal information. You are not required to provide personal information to use the application.
+We do not collect or store any personal data or user identification information through this application. This includes, but is not limited to, names, email addresses, phone numbers, locations, photos, or other personal information.
 
 ### Data Usage
 
